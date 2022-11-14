@@ -207,3 +207,7 @@ Feel free to open issues if you find missing configuration or customization opti
 
 - [hugo-book](https://github.com/alex-shpak/hugo-book)
 - [dirkolbrich/hugo-tailwindcss-starter-theme](https://github.com/dirkolbrich/hugo-tailwindcss-starter-theme)
+
+
+# Notes
+npm i

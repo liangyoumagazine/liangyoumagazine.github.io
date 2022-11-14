@@ -1,7 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://liangyoumagazine.github.io/'
 languageCode = 'en-us'
-title = 'Toigian'
-theme = "hugo-toigian"
+title = '良友畫報  Liang You Magazine'
+theme = "liangyoumagazine"
 themesDir = "../.."
 
 # (Optional) If you provide a Disqus shortname, comments will be enabled on

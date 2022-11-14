@@ -4,7 +4,8 @@
   "description": "A minimal Hugo theme",
   "main": "",
   "scripts": {
-    "build": "node_modules/.bin/postcss --use autoprefixer -o assets/base.css assets/prebuild.css"
+    "build": "node_modules/.bin/postcss --use autoprefixer -o assets/base.css assets/prebuild.css",
+    "build2": "cd site;hugo --environment production --minify -d ../docs"
   },
   "repository": {
     "type": "git",
